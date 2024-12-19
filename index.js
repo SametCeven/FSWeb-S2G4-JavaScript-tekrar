@@ -160,7 +160,7 @@ for(let i = 0 ; i < Object.keys(tekrarSayisi).length ; i++){
   tekraredensayilar.push(`${Object.keys(tekrarSayisi)[i]} sayısı ${Object.values(tekrarSayisi)[i]} kere tekrar edilmiştir`)
 }
 
-//console.log(tekraredensayilar)
+console.log(tekraredensayilar)
 
 
 /*  Bu satırın aşağısındaki kodları lütfen değiştirmeyin  */
